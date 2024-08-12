@@ -1,3 +1,8 @@
+
+https://dubstepdragon.github.io/vpm/index.json
+
+
+
 # VPM Package Listing Template
 
 Starter for making your own Package Listings, including automation for building and publishing them.
