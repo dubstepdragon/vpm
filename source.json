@@ -1,28 +1,16 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"XRDUB_VRC_TOOLS",
+    "id":"com.dubby.xrdubtools",
+    "url":"https://dubstepdragon.github.io/XRDUB_VRC_TOOLS/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"dubstep.dragon@dubby.dev",
+        "name":"Dubby",
+        "url":"dubby.dev"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Series of tools made by DubstepDragon for handling unity stuffs like animations, and VRC stuff like Menu and Parameters",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/dubstepdragon/XRDUB_VRC_TOOLS_SOURCE",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "bannerUrl":"banner.png"
 }
