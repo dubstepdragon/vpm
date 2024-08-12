@@ -12,5 +12,8 @@
         "url":"https://github.com/dubstepdragon/XRDUB_VRC_TOOLS_SOURCE",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png"
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "dubstepdragon/XRDUB_VRC_TOOLS"
+    ]
 }
