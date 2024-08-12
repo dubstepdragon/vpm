@@ -2,6 +2,7 @@
 https://dubstepdragon.github.io/vpm/index.json
 
 
+https://dubstepdragon.github.io/vpm/
 
 # VPM Package Listing Template
 
