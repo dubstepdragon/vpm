@@ -212,40 +212,34 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.31f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Dynamics">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.Dynamics.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.Dynamics.dll</HintPath>
     </Reference>
     <Reference Include="VRC.SDK3.Dynamics.Contact">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.SDK3.Dynamics.Contact.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.SDK3.Dynamics.Contact.Editor">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Editor\VRCSDK\Plugins\VRC.SDK3.Dynamics.Contact.Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.SDK3.Dynamics.Contact.dll</HintPath>
     </Reference>
     <Reference Include="VRC.SDK3.Dynamics.PhysBone">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.SDK3.Dynamics.PhysBone.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.SDK3.Dynamics.PhysBone.Editor">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Editor\VRCSDK\Plugins\VRC.SDK3.Dynamics.PhysBone.Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.SDK3.Dynamics.PhysBone.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Utility">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.Utility.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRC.Utility.dll</HintPath>
     </Reference>
     <Reference Include="VRCCore-Editor">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCCore-Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCCore-Editor.dll</HintPath>
     </Reference>
     <Reference Include="VRCCore-Standalone">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCCore-Standalone.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCCore-Standalone.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDK3A">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.avatars\Runtime\VRCSDK\Plugins\VRCSDK3A.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.avatars\Runtime\VRCSDK\Plugins\VRCSDK3A.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDK3A-Editor">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.avatars\Runtime\VRCSDK\Plugins\VRCSDK3A-Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.avatars\Runtime\VRCSDK\Plugins\VRCSDK3A-Editor.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDKBase">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCSDKBase.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCSDKBase.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDKBase-Editor">
-      <HintPath>..\..\..\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCSDKBase-Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Others\AwboiMergerUnityProj\Packages\com.vrchat.base\Runtime\VRCSDK\Plugins\VRCSDKBase-Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
 
