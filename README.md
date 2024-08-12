@@ -1,21 +1,4 @@
-# XRDUB_VRC_TOOLS
-
-This is a DLC Tool that lets you merge DLC to your avatars in unity
-
-This merges your primary FX animator to your DLC animator, your VRCMenu and VRCParameters
-
-THIS IS A DESTRUCTIVE PROCESS.
-
-I know VRC recommends a non-destructive process but VRCFury takes care of that so go support that. 
-
-This code is built into the AwboiMerger used on ShadeTheBat's avatar the Awtter. 
-
-That tool is more fully featured and has all the bells and whistles. This tool is mainly for
-quick things. Use with Caution
-
-
-
-<!-- # VPM Package Listing Template
+# VPM Package Listing Template
 
 Starter for making your own Package Listings, including automation for building and publishing them.
 
@@ -58,4 +41,3 @@ You are welcome to make your own changes to the automation process to make it fi
 [build-listing.yml](.github/workflows/build-listing.yml)
 
 This is a composite action which builds a vpm-compatible [Repo Listing](https://vcc.docs.vrchat.com/vpm/repos) based on the items you've added to your `source.json` file. you've created. In order to find all your releases and combine them into a listing, it checks out [another repository](https://github.com/vrchat-community/package-list-action) which has a [Nuke](https://nuke.build/) project which includes the VPM core lib to have access to its types and methods. This project will be expanded to include more functionality in the future - for now, the action just calls its `BuildRepoListing` target, which calls `RebuildHomePage` when it completes. If you wanted to make an action that just rebuilds the home page, you could call that directly instead - just copy the existing call and replace the target names.
--->
