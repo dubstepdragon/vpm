@@ -1,19 +1,19 @@
 {
-    "name":"XRDUB_VRC_TOOLS",
-    "id":"dev.dubby.xrdubtools",
+    "name":"Dubby's Tools",
+    "id":"dev.dubby.tools",
     "url":"https://dubstepdragon.github.io/vpm/index.json",
     "author":{
         "email":"dubstep.dragon@dubby.dev",
         "name":"Dubby",
         "url":"https://dubby.dev"
     },
-    "description":"DubstepDragon's VPM Tools",
+    "description":"Dubby's VRC Tools",
     "infoLink":{
         "url":"https://github.com/dubstepdragon/vpm",
-        "text":"View on GitHub"
+        "text":"vpm Readme"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "https://github.com/dubstepdragon/XRDUB_VRC_TOOLS"
+        "dubstepdragon/XRDUB_VRC_TOOLS"
     ]
 }
